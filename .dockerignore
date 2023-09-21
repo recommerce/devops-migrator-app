@@ -4,3 +4,5 @@
 !*.go
 !sql-migrate/*.go
 !sqlparse/*.go
+!credentials.sh
+!dbconfig.yml
